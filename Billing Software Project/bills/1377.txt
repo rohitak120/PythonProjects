@@ -1,0 +1,20 @@
+	 Welcome New Mini Mall
+ Bill Number:1377
+ Customer Name:anil
+ Phone Number:8798654652
+ Customer Email:anil@gmail.com
+ ===================================
+ Products	QTY	Price
+ ===================================
+ Fair&Lovely		0		0
+ Ponds		1		20
+ Ponds		1		20
+ Roadster		1		1800
+ Samsung M12		1		12000
+ RealMe 13		1		22000
+
+ ===================================
+ Sub Amount:			Rs.35840.00
+ Tax Amount:			Rs.138.40
+ Total Amount:			Rs.35978.40
+ ===================================

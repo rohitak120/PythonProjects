@@ -1,0 +1,22 @@
+	 Welcome New Mini Mall
+ Bill Number:4467
+ Customer Name:Rohit Kumar Maurya
+ Phone Number:8858367692
+ Customer Email:rohitak120@gmail.com
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Levis		1		5000
+ Jack&Jones		1		1700
+ Park Avenue		1		1740
+ LifeBoy		5		100
+ Ponds		6		120
+ Parachute		4		100
+ Iphone_14		1		75000
+ Iphone_15		2		180000
+
+ ===================================
+ Sub Amount:			Rs.263760.00
+ Tax Amount:			Rs.1737.60
+ Total Amount:			Rs.265497.60
+ ===================================

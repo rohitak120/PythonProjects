@@ -1,0 +1,21 @@
+	 Welcome New Mini Mall
+ Bill Number:4924
+ Customer Name:Rohit
+ Phone Number:8009350098
+ Customer Email:rohitak120@gmail.com
+ ===================================
+ Products		QTY	Price
+ ===================================
+ Olay		1		20
+ LifeBoy		1		20
+ Bajaj		1		30
+ Louis Phillipe		1		2700
+ Park Avenue		1		1740
+ Levis		1		5000
+ Spyker		1		8000
+
+ ===================================
+ Sub Amount:			Rs.17510.00
+ Tax Amount:			Rs.95.10
+ Total Amount:			Rs.17605.10
+ ===================================

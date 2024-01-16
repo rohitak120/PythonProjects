@@ -1,0 +1,19 @@
+	 Welcome New Mini Mall
+ Bill Number:6296
+ Customer Name:shweta
+ Phone Number:8303327535
+ Customer Email:shweta@gmail.com
+ ===================================
+ Products		QTY		Price
+ ===================================
+ Roadster		1		1800
+ Ponds		1		20
+ Garnier		1		30
+ Jasmin		1		22
+ Redmi 12 Pro		1		16000
+
+ ===================================
+ Sub Amount:			Rs.17872.00
+ Tax Amount:			Rs.18.72
+ Total Amount:			Rs.17890.72
+ ===================================
